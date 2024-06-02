@@ -8,7 +8,7 @@
 </div>
 <div>
     <a href="https://t.me/dalya_vo">
-        <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" 
+        <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" 
              alt="Telegram">
     </a>
 </div>
