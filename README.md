@@ -32,9 +32,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="sass" width="40" height="40"/>&nbsp;
-### It's me
-<div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DariaVO&theme=github_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DariaVO&theme=github_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DariaVO&theme=github_dark"/>
-</div>
+
