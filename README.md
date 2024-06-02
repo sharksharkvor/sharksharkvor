@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="sass" width="40" height="40"/>&nbsp;
 ### It's me
 <div>
-    <img src="[https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default"/>
 </div>
